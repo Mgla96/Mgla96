@@ -1,7 +1,7 @@
 <table>
 <tr>
   <td>
-    <img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" width="80%" alt="gif"></td>
+    <img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" width="60%" alt="gif"></td>
   <td>⚡ I love exploring new technology and using software as a tool to create cool things.<br>🔭 Check out my portfolio at https://www.mattgottlieb.me/ </td>
 </tr>
 </table>
