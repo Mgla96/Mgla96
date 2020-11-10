@@ -4,7 +4,7 @@
 </p>
 ⚡ I love exploring new technology and using software as a tool to create cool things.<br>
 
-🔭 Check out my portfolio at [mattgottlieb.me]('https://www.mattgottlieb.me/')
+🔭 Check out my portfolio at [mattgottlieb.me](https://www.mattgottlieb.me/)
 
 
 <!--
