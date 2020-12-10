@@ -4,7 +4,7 @@
 </p>
 <p  align='center'>⚡ I love exploring new technology and using software as a tool to create cool things.</p>
 
-<p align='center'>🔭 Check out my portfolio at [mattgottlieb.me](https://www.mattgottlieb.me/)
+<p align='center'>🔭 Check out my portfolio at <a href='https://www.mattgottlieb.me'>mattgottlieb.me</a> </p>
 
 
 <!--
