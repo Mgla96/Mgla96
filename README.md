@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" width="30%" alt="gif">
 </p>
 <p  align='center'>⚡ I love exploring new technology and using software as a tool to create cool things.</p>
+
 <p align='center'>🔭 Check out my portfolio at [mattgottlieb.me](https://www.mattgottlieb.me/)</p>
 
 
