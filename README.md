@@ -4,9 +4,6 @@
 </p>
 <p  align='center'>⚡ I love exploring new technology and using software as a tool to create cool things.</p>
 
-<p align='center'>🔭 Check out my portfolio at <a href='https://www.mattgottlieb.me'>mattgottlieb.me</a> </p>
-
-
 <!--
 **Mgla96/Mgla96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
