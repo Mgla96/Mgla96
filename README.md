@@ -1,8 +1,9 @@
 
 <p align='center'>
 <img src="https://media.giphy.com/media/8PyTvI5EOu9LbAm8uS/giphy.gif" width="250" height="250" alt="gif">
-</p>
+</p>💻
 <p  align='center'>⚡ I love exploring new technology and using software as a tool to create cool things.</p>
+<p  align='center'>💻 SWE at Striveworks working on an MLOps platform.</p>
 
 <!--
 **Mgla96/Mgla96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
